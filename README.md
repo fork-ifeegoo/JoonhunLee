@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white">
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
 </p>
-<h3 align="center"> Using </h3>
+<h3 align="center"> using </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/WSL-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white">
