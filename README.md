@@ -21,6 +21,7 @@
     </a>
     <br>
 </p>
+<br>
 <h2 align="center"> 🔭 Tech Stack </h2>
 <h3 align="center"> Primarily work with </h3>
 <p align="center">
