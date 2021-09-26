@@ -1,7 +1,9 @@
 <h2 align="center"> 👋 Hello World! </h2>
 <h3 align="center"> 👨‍💻 Who am I </h3>
 <p align="center">
-    I'm Lee Joonhun
+    I'm Lee Joonhun, <br> a Physics-based Finance-oriented Data Scientist <br> 
+    <sup> Wannabe </sup>
+    <br>
     <br>
     <a href="https://www.notion.so/joonhunlee/Lee-Joonhun-f894c3166a73486ba726f2346ea683bb">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion">
