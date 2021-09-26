@@ -4,11 +4,11 @@
     I'm Lee Joonhun, <br> a Physics-based Finance-oriented Data Scientist <br> 
     <sup> Wannabe </sup>
     <br>
+    <br>
     <a href="https://www.notion.so/joonhunlee/Lee-Joonhun-f894c3166a73486ba726f2346ea683bb">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion">
     </a>
 </p>
-</br>
 <h3 align="center"> 📫 Where to contact me </h3>
 <p align="center">
     <a href="mailto:jhlee63@outlook.com">
@@ -22,14 +22,13 @@
     </a>
     <br>
 </p>
-</br>
 <h2 align="center"> 🔭 Tech Stack </h2>
 <h3 align="center"> Primarily work with </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white">
     <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white">
-<br>
+    <br>
     <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit%2Dlearn&logoColor=white">
     <img src="https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
