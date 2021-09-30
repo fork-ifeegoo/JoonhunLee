@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion">
     </a>
 </p>
-<h3 align="center"> 📫 Where to contact me </h3>
+<h3 align="center"> 📫 How to contact me </h3>
 <p align="center">
     <a href="mailto:jhlee63@outlook.com">
         <img src="https://img.shields.io/badge/Dev%20Mail-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white">
