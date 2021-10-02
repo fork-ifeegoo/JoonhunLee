@@ -46,9 +46,9 @@
     <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
     <br>
