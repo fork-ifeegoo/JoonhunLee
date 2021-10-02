@@ -43,7 +43,7 @@
 <h3 align="center"> and </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
