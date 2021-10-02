@@ -1,4 +1,5 @@
 <h2 align="center"> 👋 Hello World! </h2>
+
 <h3 align="center"> 👨‍💻 Who am I </h3>
 <p align="center">
     I'm Lee Joonhun, <br> a Physics-based Finance-oriented Data Scientist <br> 
@@ -8,6 +9,7 @@
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion">
     </a>
 </p>
+
 <h3 align="center"> 📫 How to contact me </h3>
 <p align="center">
     <a href="mailto:jhlee63@outlook.com">
@@ -21,8 +23,11 @@
     </a>
     <br>
 </p>
+
 <br>
+
 <h2 align="center"> 🔭 Tech Stack </h2>
+
 <h3 align="center"> Primarily work with </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -34,6 +39,7 @@
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white">
 </p>
+
 <h3 align="center"> and </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
@@ -49,6 +55,7 @@
     <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white">
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
 </p>
+
 <h3 align="center"> using </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/WSL-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
@@ -64,10 +71,11 @@
     <img src="https://img.shields.io/badge/MX%20KEYS-00B8FC?style=flat-square&logo=Logitech&logoColor=white">
     <!-- Chiclet NonTKL -->
     <img src="https://img.shields.io/badge/STORMX%20VM3-181717?style=flat-square&logo=Xenics&logoColor=white">
-    <!-- Vertical --> <!-- Logitech MX VERTICAL -->
+    <!-- Vertical --> <!-- MX%20VERTICAL -->
     <img src="https://img.shields.io/badge/Galaxy%20Buds-1428A0?style=flat-square&logo=Samsung&logoColor=white">
     <img src="https://img.shields.io/badge/HD116-E2231A?style=flat-square&logo=Lenovo&logoColor=white">
 </p>    
+
 <h3 align="center"> Worked with or used </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white">
