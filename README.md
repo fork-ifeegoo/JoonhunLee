@@ -51,7 +51,9 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=black">
     <br>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
     <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white">
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
 </p>
