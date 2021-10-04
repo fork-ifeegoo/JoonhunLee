@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👨‍💻 Who am I </h3>
 <p align="center">
-    I'm Lee Joonhun, <br> a Physics-based Finance-oriented Data Scientist <br> 
+    I'm 이준헌, <br> a Physics-based Finance-oriented Data Scientist <br> 
     <sup> Wannabe </sup>
     <br>
     <a href="https://www.notion.so/joonhunlee/Lee-Joonhun-f894c3166a73486ba726f2346ea683bb">
