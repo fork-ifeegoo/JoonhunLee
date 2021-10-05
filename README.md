@@ -74,6 +74,7 @@
     <!-- Chiclet NonTKL -->
     <img src="https://img.shields.io/badge/STORMX%20VM3-181717?style=flat-square&logo=Xenics&logoColor=white">
     <!-- Vertical --> <!-- MX%20VERTICAL -->
+    <br>
     <img src="https://img.shields.io/badge/Galaxy%20Buds-1428A0?style=flat-square&logo=Samsung&logoColor=white">
     <img src="https://img.shields.io/badge/HD116-E2231A?style=flat-square&logo=Lenovo&logoColor=white">
 </p>    
