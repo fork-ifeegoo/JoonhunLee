@@ -52,18 +52,18 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=black">
-    <br>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-    <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white">
-    <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
 </p>
 
 <h3 align="center"> using </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/WSL-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-    <br>    
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white">
+    <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/UltraGear%20GT-A50034?style=flat-square&logo=LG&logoColor=white">
     <!-- +i7 +16GB +512GB +GTX1060 15in -->
     <img src="https://img.shields.io/badge/Galaxy%20S9+-1428A0?style=flat-square&logo=Samsung&logoColor=white">
