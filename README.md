@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white">
     <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white">
+    <img src="https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit%2Dlearn&logoColor=white">
     <img src="https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
